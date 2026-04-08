@@ -1,0 +1,18 @@
+{
+  "_comment": "BR-240P – APCR round. Uses gold nuggets for the sub-calibre tungsten-carbide core. 2 per craft.",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "IIG",
+    " F "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "G": { "item": "minecraft:gold_nugget" },
+    "F": { "item": "minecraft:gravel" }
+  },
+  "result": {
+    "item": "artillerymod:br_240p",
+    "count": 2
+  }
+}

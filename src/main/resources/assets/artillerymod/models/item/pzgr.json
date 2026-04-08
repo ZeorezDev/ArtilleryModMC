@@ -1,0 +1,7 @@
+{
+  "_comment": "PzGr. – standard AP round, 37 mm. Rendered as iron_ingot (dense metallic look).",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_ingot"
+  }
+}

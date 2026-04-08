@@ -1,0 +1,17 @@
+{
+  "_comment": "BR-240 – standard AP round for the 53-K. 4 rounds per craft (same cost tier as PzGr.).",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "III",
+    " F "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "F": { "item": "minecraft:gravel" }
+  },
+  "result": {
+    "item": "artillerymod:br_240",
+    "count": 4
+  }
+}

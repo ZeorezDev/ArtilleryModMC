@@ -1,0 +1,18 @@
+{
+  "_comment": "PzGr. 40 – APCR round (tungsten core). Uses gold nuggets for the hard core. 2 per craft.",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "IIG",
+    " F "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "G": { "item": "minecraft:gold_nugget" },
+    "F": { "item": "minecraft:flint" }
+  },
+  "result": {
+    "item": "artillerymod:pzgr_40",
+    "count": 2
+  }
+}

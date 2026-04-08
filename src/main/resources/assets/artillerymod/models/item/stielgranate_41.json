@@ -1,0 +1,7 @@
+{
+  "_comment": "Stielgranate 41 – over-muzzle HEAT grenade. TNT texture conveys explosive nature.",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/tnt_side"
+  }
+}

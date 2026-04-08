@@ -1,0 +1,7 @@
+{
+  "_comment": "45 mm M1937 (53-K) placement item. Uses vanilla iron_ingot texture – no custom assets.",
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_ingot"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "_comment": "BR-240P – APCR sub-calibre round. Gold nugget texture hints at the harder, rarer core.",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gold_nugget"
+  }
+}

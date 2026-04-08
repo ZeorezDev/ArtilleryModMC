@@ -1,0 +1,7 @@
+{
+  "_comment": "BR-240 – standard AP round, 45 mm. Iron ingot texture (solid AP slug).",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_ingot"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "_comment": "PzGr. 40 – APCR round (tungsten core). Gold nugget texture hints at rare/special material.",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gold_nugget"
+  }
+}

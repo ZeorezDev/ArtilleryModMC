@@ -1,0 +1,18 @@
+{
+  "_comment": "Recipe for the 45 mm anti-tank gun M1937 (53-K). Slightly heavier cost than Pak 36.",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "SWS",
+    "WIW"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "S": { "item": "minecraft:iron_block" },
+    "W": { "item": "minecraft:dark_oak_log" }
+  },
+  "result": {
+    "item": "artillerymod:m1937",
+    "count": 1
+  }
+}

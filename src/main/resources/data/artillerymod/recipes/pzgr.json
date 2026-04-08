@@ -1,0 +1,17 @@
+{
+  "_comment": "PzGr. – standard AP round. 4 rounds per craft. Iron = affordable.",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "III",
+    " F "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "F": { "item": "minecraft:flint" }
+  },
+  "result": {
+    "item": "artillerymod:pzgr",
+    "count": 4
+  }
+}

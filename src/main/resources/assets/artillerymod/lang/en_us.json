@@ -1,0 +1,38 @@
+{
+  "_comment": "Artillery Mod – English localization. Historical names preserved exactly.",
+
+  "itemGroup.artillerymod.artillery": "Artillery (1936–1937)",
+
+  "item.artillerymod.pak_36":         "3.7 cm Pak 36",
+  "item.artillerymod.m1937":          "45 mm anti-tank gun M1937 (53-K)",
+
+  "item.artillerymod.pak_36.tooltip":   "Right-click on a block to place the gun",
+  "item.artillerymod.m1937.tooltip":    "Right-click on a block to place the gun",
+  "item.artillerymod.artillery_placer.tooltip": "Right-click on a block to place",
+
+  "item.artillerymod.pzgr":           "PzGr.",
+  "item.artillerymod.pzgr_40":        "PzGr. 40",
+  "item.artillerymod.stielgranate_41":"Stielgranate 41",
+  "item.artillerymod.br_240":         "BR-240",
+  "item.artillerymod.br_240p":        "BR-240P",
+
+  "item.artillerymod.pzgr.tooltip_calibre":           "Calibre: 37 mm",
+  "item.artillerymod.pzgr.tooltip_type":              "Type: Armour-Piercing (AP)",
+  "item.artillerymod.pzgr_40.tooltip_calibre":        "Calibre: 37 mm (sub-calibre)",
+  "item.artillerymod.pzgr_40.tooltip_type":           "Type: APCR (tungsten core)",
+  "item.artillerymod.stielgranate_41.tooltip_calibre":"Calibre: 37 mm over-muzzle",
+  "item.artillerymod.stielgranate_41.tooltip_type":   "Type: HEAT – slow, heavy penetration",
+  "item.artillerymod.br_240.tooltip_calibre":         "Calibre: 45 mm",
+  "item.artillerymod.br_240.tooltip_type":            "Type: Armour-Piercing (AP)",
+  "item.artillerymod.br_240p.tooltip_calibre":        "Calibre: 45 mm (sub-calibre)",
+  "item.artillerymod.br_240p.tooltip_type":           "Type: APCR (tungsten-carbide core)",
+
+  "artillerymod.hint.fire_ready":    "Gun loaded – aim and Right-click to fire",
+  "artillerymod.hint.wrong_ammo":    "Wrong ammunition for this gun",
+  "artillerymod.hint.breech_busy":   "Breech is not empty",
+  "artillerymod.hint.loading":       "Loading: %s",
+  "artillerymod.hint.no_ammo":       "No round in breech",
+  "artillerymod.hint.still_loading": "Loading in progress…",
+  "artillerymod.hint.cooling":       "Breech cooling – wait",
+  "artillerymod.hint.not_ready":     "Gun is not ready to fire"
+}

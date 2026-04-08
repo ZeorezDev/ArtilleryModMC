@@ -1,0 +1,22 @@
+{
+  "_comment": [
+    "Stielgranate 41 – over-muzzle HEAT grenade. Very expensive, 1 per craft.",
+    "TNT core + iron body + gunpowder = rare HEAT grenade for emergency anti-armour use."
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IPI",
+    "ITI",
+    "IGI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "T": { "item": "minecraft:tnt" },
+    "P": { "item": "minecraft:gunpowder" },
+    "G": { "item": "minecraft:gold_ingot" }
+  },
+  "result": {
+    "item": "artillerymod:stielgranate_41",
+    "count": 1
+  }
+}

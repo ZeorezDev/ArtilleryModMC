@@ -1,0 +1,18 @@
+{
+  "_comment": "Recipe for the 3.7 cm Pak 36 placement item. Expensive but achievable in mid-game.",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "SWS",
+    "WSW"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "S": { "item": "minecraft:iron_block" },
+    "W": { "item": "minecraft:oak_log" }
+  },
+  "result": {
+    "item": "artillerymod:pak_36",
+    "count": 1
+  }
+}

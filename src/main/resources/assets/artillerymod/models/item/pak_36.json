@@ -1,0 +1,7 @@
+{
+  "_comment": "3.7 cm Pak 36 placement item. Uses vanilla iron_block texture – no custom assets.",
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_ingot"
+  }
+}
